@@ -57,7 +57,7 @@ done
 # if we got here, then they unsuccessfully tested their keyboard, send them to support desk
 echo ""
 echo "I am sorry, it appears your keyboard needs to be replaced."
-echo "   Please contact the Help Desk at 514 744 2911 ext 311 "
+echo "   Please contact the Help Desk at 512 211 3965 ext 311 "
 echo ""
 
 # custom error message for the exit
